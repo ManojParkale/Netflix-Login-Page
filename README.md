@@ -2,7 +2,7 @@
   Netflix-Login-Page - v2.0<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.png" />
+  <img alt="Demo" src="./readme-img.png" />
 </div>
 
 <br/>
