@@ -34,8 +34,8 @@ My personal portfolio features some of my github projects as well as my resume a
 
 This project was built using these technologies.
 
-- React.js
 - Javascript
+- HTML
 - Bootstrap
 - CSS3
 - VsCode
